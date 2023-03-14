@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.container {
+    width: 366px;
+    height: 420px;
+    margin-top: 270px;
+    margin-left: 537px;
+    background-color: #faf4ef;
+    border-bottom-left-radius: 50px;
+}
+h1{
+    padding-top: 43px;
+    padding-left: 46.11px;
+
+}
+h6 {
+    padding-top: 7px;
+    padding-left: 46.11px;
+    font-size: small;
+   
+}
+img{
+    margin: 35px;
+
+}
